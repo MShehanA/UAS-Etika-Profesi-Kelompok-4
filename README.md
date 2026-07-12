@@ -129,3 +129,7 @@ https://youtu.be/xxxxxxxxxxx
 <br>
 
 <b>Bagian 6 - Kode Etik Profesi </b>
+
+<br>
+
+<b>Bagian 7 - Analisis Regulasi & Hukum </b>
