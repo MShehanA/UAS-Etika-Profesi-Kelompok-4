@@ -67,3 +67,5 @@ https://youtu.be/xxxxxxxxxxx
 - **Tahun Ajaran:** 2026/2027
 
 ---
+Bagian 1 - Kronologi & Konteks 
+cek
