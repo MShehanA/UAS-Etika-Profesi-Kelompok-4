@@ -133,6 +133,8 @@
 <br>
 <b>A. Undang-Undang Perlindungan Data Pribadi (UU PDP) No. 27 Tahun 2022 </b>
 <br><p>&nbsp;&nbsp;&nbsp;&nbsp;Undang-Undang Nomor 27 Tahun 2022 mengenai Perlindungan Data Pribadi (UU PDP) mengatur hak-hak subjek data pribadi dan kewajiban bagi pengendali serta pemroses data dalam mengelola informasi individu secara legal, transparan, serta bertanggung jawab. Dalam proses rekrutmen yang didukung AI, perusahaan mengumpulkan berbagai data pribadi pelamar, termasuk identitas, latar belakang pendidikan, pengalaman kerja, serta dokumen pendukung lainnya. Seluruh proses pengolahan data tersebut harus dilaksanakan mengikuti prinsip perlindungan data pribadi.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Dalam kasus Amazon, pemanfaatan data historis sebagai data pelatihan AI menekankan pentingnya penerapan prinsip akurasi, keadilan, dan akuntabilitas dalam pengelolaan data pribadi. Walaupun isu utama bukan pada kebocoran data, penggunaan data masa lalu yang mengandung prasangka bisa menghasilkan keputusan yang merugikan kelompok tertentu, terutama perempuan. Jika diibaratkan dengan penerapan UU PDP di Indonesia, perusahaan sebagai pengendali data wajib memastikan bahwa data yang diolah tidak hanya terlindungi, tetapi juga digunakan secara bertanggung jawab agar tidak mengakibatkan diskriminasi dalam proses pengambilan keputusan otomatis.</p>
+
 <b>B. Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) Nomor 11 Tahun 2008 jo. Undang-Undang Nomor 1 Tahun 2024 </b>
 <br>
 <b>C. Surat Edaran Menteri Komunikasi dan Informatika Nomor 9 Tahun 2023 tentang Etika Kecerdasan Artifisial (Artificial Intelligence)</b>
