@@ -118,3 +118,6 @@ https://youtu.be/xxxxxxxxxxx
 <b>Sila 1: Ketuhanan Yang Maha Esa </b>
 <br>
 <b>Sila 2: Kemanusiaan yang Adil dan Beradab </b>
+<br>
+<b>Sila 3: Persatuan Indonesia </b>
+
