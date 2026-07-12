@@ -100,7 +100,7 @@ https://youtu.be/xxxxxxxxxxx
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Di samping itu, tingkat kepercayaan masyarakat terhadap teknologi AI sangat ditentukan oleh cara penggunaan teknologi itu. Jika perusahaan dapat mengimplementasikan pengelolaan AI yang efektif, memanfaatkan data pelatihan yang mencerminkan, serta melakukan penilaian algoritma secara rutin, maka AI bisa menjadi sarana yang mendukung proses rekrutmen dengan cara yang lebih objektif dan efisien. Sebaliknya, jika bias dibiarkan, masyarakat akan semakin mempertanyakan pemanfaatan AI dalam proses pengambilan keputusan yang berpengaruh pada kehidupan manusia.</p>
 <br>
 <b>Bagian 4 - Analisis Empat Teori Etika </b>
-<br>
-<b>Teori Utilitarian</b>
-<br>
+<br><b>Teori Utilitarian</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Dilihat dari perspektif utilitarianisme, suatu tindakan dianggap benar jika bisa memberikan manfaat terbesar bagi sebagian besar orang. Meskipun sistem AI Amazon telah meningkatkan efisiensi proses rekrutmen, manfaatnya tidak seimbang dengan dampak negatifnya yang menyebabkan diskriminasi terhadap kandidat perempuan. Oleh karena itu, penggunaan sistem tersebut tidak memenuhi prinsip utilitarianisme karena akhirnya menghasilkan kerugian sosial yang lebih besar.</p>
+<br/>
 <b>Teori Deontologi</b>
