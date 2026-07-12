@@ -143,4 +143,4 @@
 <br>
 <b>2. Kurangnya Transparansi dan Akuntabilitas </b>
 <br>
-
+<b>3. Manipulasi atau Pembiaran Data Pelatihan </b>
