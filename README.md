@@ -202,13 +202,24 @@
 4. Dampak bagi Regulator
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Contoh seperti Amazon mengindikasikan kebutuhan akan regulasi yang lebih tegas terkait pemanfaatan AI dalam proses pengambilan keputusan. Regulator akan dihadapkan pada permintaan untuk merumuskan kebijakan yang mengatur keterbukaan algoritma, audit sistem AI, perlindungan data pribadi, serta mekanisme akuntabilitas jika sistem AI membuat keputusan yang merugikan masyarakat.
 </p>
-Kontrol Preventif 
+<b>Kontrol Preventif </b>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Untuk meminimalkan risiko terjadinya bias dalam sistem rekrutmen berbasis AI, perusahaan perlu menerapkan beberapa langkah pengendalian berikut.</p>
 1. Human-in-the-Loop (HITL) 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Keputusan terakhir dalam proses rekrutmen sebaiknya tidak sepenuhnya diserahkan kepada AI. Sistem kecerdasan buatan berfungsi hanya sebagai alat bantu dalam memberikan saran, sementara keputusan akhir tetap ditentukan oleh tim Sumber Daya Manusia (SDM). Melalui partisipasi manusia, output yang dihasilkan AI dapat dievaluasi ulang sehingga jika ada tanda bias atau ketidaksesuaian, keputusan tersebut bisa disesuaikan sebelum berdampak pada hasil pemilihan kandidat.</p>
 2. Monitoring dan Audit Algoritma Secara Berkala 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Perusahaan harus melakukan penilaian terhadap kinerja sistem AI secara rutin, baik sebelum maupun sesudah sistem diterapkan. Audit dilaksanakan untuk menemukan adanya bias yang berkaitan dengan gender, usia, atau karakteristik lainnya. Di samping itu, pelatihan data dan model AI harus diperbaharui secara berkala supaya tetap mencerminkan keadaan yang terkini dan tidak terus-menerus memperlihatkan pola diskriminasi dari data masa lalu.
 </p>
+3. Penggunaan Data yang Representatif
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Data pelatihan adalah elemen kunci yang menentukan mutu keputusan AI. Oleh karena itu, perusahaan harus memastikan bahwa data yang digunakan menunjukkan keberagaman kandidat berdasarkan gender, latar belakang pendidikan, pengalaman kerja, serta karakteristik lainnya. Dengan data yang lebih seimbang, sistem AI dapat menghasilkan keputusan yang lebih adil dan objektif.</p>
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Transparansi dan Explainable AI (XAI) 
+Perusahaan harus menciptakan sistem AI yang dapat menjelaskan dasar dari setiap keputusan yang diambil. Keterbukaan ini membantu pengembang, HR, dan kandidat untuk mengerti elemen-elemen yang mempengaruhi hasil evaluasi. Selain meningkatkan tanggung jawab, AI yang Dapat Dijelaskan juga mendukung proses audit jika ada tanda-tanda diskriminasi dalam sistem.</p>
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Tata Kelola AI dan Tim Etik
+Perusahaan harus menyusun kebijakan tata kelola AI yang mengatur proses pengembangan, pemanfaatan, pemantauan, serta penilaian sistem AI. Di samping itu, pembentukan tim etik AI yang melibatkan pengembang, praktisi HR, pakar hukum, dan ahli etika akan membantu memastikan bahwa semua sistem AI yang diterapkan telah memenuhi prinsip keadilan, transparansi, akuntabilitas, dan kepatuhan terhadap regulasi yang relevan.</p>
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Pelatihan bagi Pengembang dan Pengguna Sistem 
+Pengembang AI dan tim HR harus mendapatkan pelatihan tentang etika AI, bias algoritma, dan signifikansi keberagaman dalam rekrutmen. Seiring dengan meningkatnya pemahaman tentang risiko AI, perusahaan akan lebih bisa mengidentifikasi potensi bias dari fase pengembangan hingga penerapan sistem.</p>
 
 
 
