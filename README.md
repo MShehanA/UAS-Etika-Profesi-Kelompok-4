@@ -153,5 +153,13 @@
 
 <b>Bagian 9 - Manajemen Risiko & Opsi 4T </b>
 
-br>
+<br>
+
+<b>Bagian 10 - Rancangan Dampak & Kontrol Preventif </b>
+
+<br>
+
+<b>Bagian 11 - Pelajaran Utama & Daftar Pustaka </b>
+
+
 
