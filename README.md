@@ -99,7 +99,7 @@
 <br>
 <b>Bagian 4 - Analisis Empat Teori Etika </b>
 <br><b>Teori Utilitarian</b>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Dilihat dari perspektif utilitarianisme, suatu tindakan dianggap benar jika bisa memberikan manfaat terbesar bagi sebagian besar orang. Meskipun sistem AI Amazon telah meningkatkan efisiensi proses rekrutmen, manfaatnya tidak seimbang dengan dampak negatifnya yang menyebabkan diskriminasi terhadap kandidat perempuan. Oleh karena itu, penggunaan sistem tersebut tidak memenuhi prinsip utilitarianisme karena akhirnya menghasilkan kerugian sosial yang lebih besar.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Dilihat dari perspektif utilitarianisme, suatu tindakan dianggap benar jika bisa memberikan manfaat terbesar bagi sebagian besar orang. Meskipun sistem AI Amazon telah meningkatkan efisiensi proses rekrutmen, manfaatnya tidak seimbang dengan dampak negatifnya yang menyebabkan diskriminasi terhadap kandidat perempuan. Oleh karena itu, penggunaan sistem tersebut tidak memenuhi prinsip utilitarianisme karena akhirnya menghasilkan kerugian sosial yang lebih besar.</p>
 <br/>
 <b>Teori Deontologi</b>
 <br> 
