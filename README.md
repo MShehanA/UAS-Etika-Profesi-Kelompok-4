@@ -115,7 +115,7 @@
 <b>Bagian 5 - Lensa Kelima — Pancasila</b>
 <br>
 <b>Sila 1: Ketuhanan Yang Maha Esa </b>
-<br>
+<br><p>&nbsp;&nbsp;&nbsp;&nbsp;Sila pertama mencakup nilai kejujuran, tanggung jawab, amanah, dan etika dalam setiap perilaku. Dalam kasus sistem rekrutmen AI Amazon, nilai tersebut belum sepenuhnya diterapkan karena sistem membuat keputusan yang bias terhadap kandidat wanita akibat pemanfaatan data historis yang tidak seimbang. Walaupun bias itu tidak sengaja dilakukan, perusahaan dan pengembang tetap memiliki kewajiban moral untuk menjamin bahwa teknologi yang dibuat tidak merugikan kelompok tertentu. Implementasi nilai Ketuhanan Yang Maha Esa mengajarkan bahwa pengembangan teknologi harus berlandaskan hati nurani, kejujuran, dan tanggung jawab agar sistem AI dapat digunakan secara etis tanpa menyebabkan ketidakadilan di masyarakat.</p>
 <b>Sila 2: Kemanusiaan yang Adil dan Beradab </b>
 <br>
 <b>Sila 3: Persatuan Indonesia </b>
