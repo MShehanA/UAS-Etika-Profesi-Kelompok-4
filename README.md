@@ -79,6 +79,17 @@ https://youtu.be/xxxxxxxxxxx
 
 <br>
 <b>Bagian 3 - Pemetaan Pemangku Kepentingan </b>
+## 3. Stakeholder Mapping
+
+| Stakeholder | Role / Interest | Impact |
+|-------------|-----------------|--------|
+| Female Candidates | Participate in the recruitment process and expect equal employment opportunities based on qualifications. | Disadvantaged by the AI system, resulting in lower evaluation scores and reduced chances of being hired despite having equivalent qualifications. |
+| Male Candidates | Compete for available job positions through the recruitment process. | May unintentionally benefit from algorithmic bias, making the recruitment results less objective. |
+| Amazon | Develops and implements the AI recruitment system to improve hiring efficiency and identify the best candidates. | Faces reputational damage, loss of public trust, legal risks, and ultimately discontinues the AI recruitment system. |
+| AI Development Team | Designs, trains, tests, and maintains the recruitment algorithm. | Responsible for identifying and mitigating bias, improving transparency, and ensuring fairness in AI decision-making. |
+| Human Resources (HR) | Uses AI recommendations to support recruitment decisions. | Must verify AI recommendations and avoid relying solely on automated decisions to ensure fair recruitment outcomes. |
+| Government / Regulators | Establish regulations, supervise AI implementation, and protect public rights. | Encouraged to develop policies regarding AI ethics, transparency, accountability, and personal data protection. |
+| Society | Expects AI to improve efficiency while ensuring fair employment opportunities. | Public trust in AI may decline if discriminatory decisions continue to occur. |
 <br>
 <b>Analisis Sosial</b>
 
