@@ -136,4 +136,7 @@
 <br>
 
 <b>Bagian 8 - Checkpoint Integritas & Anti-Korupsi </b>
+<br>
+<b>Checkpoint Spesifik dalam Konteks AI Rekrutmen </b>
+
 
