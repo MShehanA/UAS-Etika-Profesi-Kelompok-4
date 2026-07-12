@@ -138,5 +138,8 @@
 <b>Bagian 8 - Checkpoint Integritas & Anti-Korupsi </b>
 <br>
 <b>Checkpoint Spesifik dalam Konteks AI Rekrutmen </b>
+<br>
+<b>1. Penyalahgunaan Wewenang dalam Penggunaan AI </b>
+<br>
 
 
