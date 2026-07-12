@@ -148,3 +148,10 @@
 <b>2. Kurangnya Transparansi dan Akuntabilitas </b>
 <br>
 <b>3. Manipulasi atau Pembiaran Data Pelatihan </b>
+
+<br>
+
+<b>Bagian 9 - Manajemen Risiko & Opsi 4T </b>
+
+br>
+
