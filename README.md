@@ -222,9 +222,18 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Pengembang AI dan tim HR harus mendapatkan pelatihan tentang etika AI, bias algoritma, dan signifikansi keberagaman dalam rekrutmen. Seiring dengan meningkatnya pemahaman tentang risiko AI, perusahaan akan lebih bisa mengidentifikasi potensi bias dari fase pengembangan hingga penerapan sistem.</p>
 
 <b>Bagian 11 - Pelajaran Utama & Daftar Pustaka </b>
-<b>Pelajaran Utama
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Kasus bias AI dalam sistem perekrutan Amazon menunjukkan bahwa kecerdasan buatan (AI) tidak selalu menghasilkan keputusan yang adil. AI akan mengambil pelajaran dari data yang dipakai dalam proses pelatihan, sehingga jika data itu memiliki bias, keputusan yang dihasilkan juga dapat bersifat diskriminatif. Oleh sebab itu, pengembangan AI perlu memperhatikan prinsip-prinsip etika, seperti keadilan, transparansi, akuntabilitas, dan penghormatan terhadap hak asasi manusia.
-Kasus ini juga menekankan signifikansi pengelolaan AI yang baik dengan memanfaatkan data pelatihan yang representatif, melakukan audit algoritma secara rutin, menerapkan Explainable AI (XAI), serta melibatkan manusia (Human-in-the-Loop) dalam proses pengambilan keputusan. Di samping itu, organisasi harus memastikan bahwa pemanfaatan AI sejalan dengan regulasi yang ada dan kode etik profesi supaya teknologi dapat digunakan secara bertanggung jawab dan tidak menimbulkan diskriminasi di masa depan.</p>
+<b>Pelajaran Utama</b>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Kasus bias AI dalam sistem perekrutan Amazon menunjukkan bahwa kecerdasan buatan (AI) tidak selalu menghasilkan keputusan yang adil. AI akan mengambil pelajaran dari data yang dipakai dalam proses pelatihan, sehingga jika data itu memiliki bias, keputusan yang dihasilkan juga dapat bersifat diskriminatif. Oleh sebab itu, pengembangan AI perlu memperhatikan prinsip-prinsip etika, seperti keadilan, transparansi, akuntabilitas, dan penghormatan terhadap hak asasi manusia.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Kasus ini juga menekankan signifikansi pengelolaan AI yang baik dengan memanfaatkan data pelatihan yang representatif, melakukan audit algoritma secara rutin, menerapkan Explainable AI (XAI), serta melibatkan manusia (Human-in-the-Loop) dalam proses pengambilan keputusan. Di samping itu, organisasi harus memastikan bahwa pemanfaatan AI sejalan dengan regulasi yang ada dan kode etik profesi supaya teknologi dapat digunakan secara bertanggung jawab dan tidak menimbulkan diskriminasi di masa depan.</p>
+<br>
+
+
+<b>DAFTAR PUSTAKA</b>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;1. Susilo, D. B., Kamila, A. N., & Ahyakudin. (2025). Rekrutmen berbasis kecerdasan buatan: Analisis bias algoritmik dalam perspektif prinsip keadilan hukum Islam dan UU Ketenagakerjaan Indonesia. Jurnal Ilmiah Ekonomi dan Manajemen, 4(6). </p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;2. Fadly, M., Resti, A., Afriyanti, W. D., Afrida, W., & Satriadi. (2025). Etika AI dalam manajemen talenta: Analisis bias algoritma dalam proses rekrutmen dan promosi. Prosiding Seminar Nasional UNARS.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;3. Wahidin, D., Rosmaladewi, O., & Janaenah. (2024). Implementasi Artificial Intelligence dalam proses rekrutmen dan seleksi: Studi kasus pada PT Saripetejo Sukabumi. Jurnal Indragiri Penelitian Multidisiplin, 4(3), 84–88.</p>
+
+
 
 
 
