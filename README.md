@@ -104,7 +104,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Jika dianalisis dengan teori Etika Kebajikan, pengembangan sistem AI seharusnya mencerminkan sifat moral seperti keadilan, tanggung jawab, kejujuran, dan profesionalisme. Namun, perhatian pengembang lebih difokuskan pada peningkatan akurasi sistem ketimbang menjamin bahwa algoritma beroperasi secara adil. Situasi itu menunjukkan bahwa nilai-nilai kebajikan belum diimplementasikan dalam pengembangan AI.</p>
 <br>
 <b>Ethics of Care</b>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;JSementara itu, menurut Ethics of Care, pilihan yang dibuat seharusnya memperhatikan perhatian terhadap pihak-pihak yang terpengaruh. Dalam situasi ini, sistem tidak memperhatikan efek diskriminasi yang dirasakan oleh perempuan, sehingga mencerminkan kurangnya kepedulian terhadap kelompok yang rentan terkena dampak negatif. Dengan demikian, pemanfaatan AI tersebut belum memenuhi prinsip etika perhatian.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Sementara itu, menurut Ethics of Care, pilihan yang dibuat seharusnya memperhatikan perhatian terhadap pihak-pihak yang terpengaruh. Dalam situasi ini, sistem tidak memperhatikan efek diskriminasi yang dirasakan oleh perempuan, sehingga mencerminkan kurangnya kepedulian terhadap kelompok yang rentan terkena dampak negatif. Dengan demikian, pemanfaatan AI tersebut belum memenuhi prinsip etika perhatian.</p>
 
 <br>
 
