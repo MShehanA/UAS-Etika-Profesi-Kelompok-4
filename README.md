@@ -178,6 +178,7 @@
 <b>2. Transfer (Mengalihkan Risiko))</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Strategi Transfer dilakukan dengan mengalihkan sebagian efek risiko kepada pihak lain atau melalui mekanisme tertentu agar organisasi tidak menanggung seluruh akibat jika risiko terjadi. Dalam konteks penerapan AI untuk proses rekrutmen, perusahaan bisa meminimalkan risiko hukum dengan patuh pada peraturan yang berlaku, menggunakan kontrak dengan penyedia teknologi AI yang mengatur pembagian tanggung jawab, serta melindungi diri melalui asuransi risiko siber jika diperlukan. Meski risiko selalu ada, konsekuensi keuangan dan tanggung jawab hukum dapat dikurangi melalui mekanisme tersebut.</p>
 <b>Terminate (Menghentikan Risiko)</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Strategi Terminate diterapkan ketika suatu risiko memiliki pengaruh yang sangat besar dan tidak dapat dikelola dengan baik. Dalam situasi seperti ini, organisasi memutuskan untuk menghentikan kegiatan yang menimbulkan risiko. Kasus Amazon adalah contoh konkret penerapan strategi ini. Setelah perusahaan menyadari bahwa sistem AI berpotensi mendiskriminasi kandidat perempuan dan berbagai upaya perbaikan belum sepenuhnya menghapus bias, Amazon akhirnya memutuskan untuk menghentikan penggunaan sistem AI dalam proses rekrutmen. Keputusan itu diambil untuk menghindari kerugian yang lebih besar, baik bagi kandidat maupun bagi reputasi perusahaan.</p>
 <br>
 
 <b>Bagian 10 - Rancangan Dampak & Kontrol Preventif </b>
