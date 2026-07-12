@@ -190,6 +190,8 @@
 <br>
 
 <b>Bagian 10 - Rancangan Dampak & Kontrol Preventif </b>
+<p><b>Rancangan Dampak</b></p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Jika perusahaan gagal menerapkan pengendalian yang cukup terhadap sistem Kecerdasan Buatan (AI) dalam proses perekrutan, berbagai konsekuensi buruk dapat timbul, baik untuk individu, perusahaan, maupun masyarakat. Dampak tersebut meliputi hal-hal berikut.</p>
 
 <br>
 
