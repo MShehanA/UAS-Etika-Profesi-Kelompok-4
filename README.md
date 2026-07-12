@@ -100,14 +100,11 @@
 <b>Bagian 4 - Analisis Empat Teori Etika </b>
 <br><b>Teori Utilitarian</b>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Dilihat dari perspektif utilitarianisme, suatu tindakan dianggap benar jika bisa memberikan manfaat terbesar bagi sebagian besar orang. Meskipun sistem AI Amazon telah meningkatkan efisiensi proses rekrutmen, manfaatnya tidak seimbang dengan dampak negatifnya yang menyebabkan diskriminasi terhadap kandidat perempuan. Oleh karena itu, penggunaan sistem tersebut tidak memenuhi prinsip utilitarianisme karena akhirnya menghasilkan kerugian sosial yang lebih besar.</p>
-
 <b>Teori Deontologi</b>
 <br> 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Berdasarkan teori deontologi, setiap orang memiliki hak yang wajib dihormati tanpa melihat hasil akhir. Dalam situasi ini, setiap pemohon berhak mendapatkan peluang kerja yang setara. Akan tetapi, sistem AI malah memberikan perlakuan yang berbeda tergantung pada gender, yang mengakibatkan pelanggaran terhadap prinsip keadilan dan tanggung jawab perusahaan untuk memperlakukan semua kandidat dengan hak yang sama.</p>
-
 <b>Virtue Ethics</b>
 <br><p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Jika dianalisis dengan teori Etika Kebajikan, pengembangan sistem AI seharusnya mencerminkan sifat moral seperti keadilan, tanggung jawab, kejujuran, dan profesionalisme. Namun, perhatian pengembang lebih difokuskan pada peningkatan akurasi sistem ketimbang menjamin bahwa algoritma beroperasi secara adil. Situasi itu menunjukkan bahwa nilai-nilai kebajikan belum diimplementasikan dalam pengembangan AI.</p>
-
 <b>Ethics of Care</b>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Sementara itu, menurut Ethics of Care, pilihan yang dibuat seharusnya memperhatikan perhatian terhadap pihak-pihak yang terpengaruh. Dalam situasi ini, sistem tidak memperhatikan efek diskriminasi yang dirasakan oleh perempuan, sehingga mencerminkan kurangnya kepedulian terhadap kelompok yang rentan terkena dampak negatif. Dengan demikian, pemanfaatan AI tersebut belum memenuhi prinsip etika perhatian.</p>
 
