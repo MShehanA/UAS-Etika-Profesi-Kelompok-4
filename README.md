@@ -135,5 +135,5 @@
 <b>C. Surat Edaran Menteri Komunikasi dan Informatika Nomor 9 Tahun 2023 tentang Etika Kecerdasan Artifisial (Artificial Intelligence)</b>
 <br>
 
-
+<b>Bagian 8 - Checkpoint Integritas & Anti-Korupsi </b>
 
