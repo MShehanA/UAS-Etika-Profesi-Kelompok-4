@@ -140,7 +140,7 @@
 <br>
 
 <b>Bagian 8 - Checkpoint Integritas & Anti-Korupsi </b>
-<p><text-indent: 40px; text-align: justify;> Walaupun kasus bias AI dalam sistem rekrutmen Amazon tidak terkait langsung dengan tindakan korupsi, penerapan prinsip integritas dan good governance tetap merupakan hal yang penting. Jika sistem AI serupa diterapkan oleh lembaga pemerintah atau Badan Usaha Milik Negara (BUMN) dalam proses seleksi karyawan di Indonesia, maka potensi penyalahgunaan sistem atau kewenangan dapat menyebabkan pelanggaran terhadap prinsip-prinsip integritas serta berisiko melanggar peraturan hukum yang ada. Dengan demikian, penerapan AI dalam proses pengambilan keputusan perlu disertai oleh sistem pengawasan, akuntabilitas, dan transparansi yang cukup </p>
+<p text-indent: 40px; text-align: justify;> Walaupun kasus bias AI dalam sistem rekrutmen Amazon tidak terkait langsung dengan tindakan korupsi, penerapan prinsip integritas dan good governance tetap merupakan hal yang penting. Jika sistem AI serupa diterapkan oleh lembaga pemerintah atau Badan Usaha Milik Negara (BUMN) dalam proses seleksi karyawan di Indonesia, maka potensi penyalahgunaan sistem atau kewenangan dapat menyebabkan pelanggaran terhadap prinsip-prinsip integritas serta berisiko melanggar peraturan hukum yang ada. Dengan demikian, penerapan AI dalam proses pengambilan keputusan perlu disertai oleh sistem pengawasan, akuntabilitas, dan transparansi yang cukup </p>
 <br>
 
 <b>Checkpoint Spesifik dalam Konteks AI Rekrutmen </b>
