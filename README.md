@@ -79,7 +79,17 @@ https://youtu.be/xxxxxxxxxxx
 
 <br>
 <b>Bagian 3 - Pemetaan Pemangku Kepentingan </b>
-## 3. Stakeholder Mapping
+## 3. Pemetaan Pemangku Kepentingan
+
+| Pemangku Kepentingan | Peran / Kepentingan | Dampak yang Dialami |
+|----------------------|---------------------|---------------------|
+| Kandidat Perempuan | Mengikuti proses rekrutmen untuk memperoleh kesempatan kerja yang adil berdasarkan kompetensi. | Mengalami diskriminasi akibat sistem AI memberikan penilaian lebih rendah, sehingga peluang diterima bekerja menjadi berkurang meskipun memiliki kualifikasi yang setara. |
+| Kandidat Laki-laki | Mengikuti proses rekrutmen dan bersaing memperoleh posisi yang tersedia. | Berpotensi memperoleh keuntungan dari bias sistem, sehingga hasil seleksi menjadi kurang objektif dan tidak sepenuhnya mencerminkan kemampuan kandidat. |
+| Amazon | Mengembangkan dan menggunakan sistem AI untuk meningkatkan efisiensi proses rekrutmen serta memperoleh kandidat terbaik. | Mengalami penurunan reputasi perusahaan, kehilangan kepercayaan publik, menghentikan penggunaan sistem AI, serta menghadapi risiko hukum dan kritik terkait diskriminasi. |
+| Tim Pengembang AI | Merancang, melatih, menguji, dan memelihara algoritma AI yang digunakan dalam proses rekrutmen. | Bertanggung jawab melakukan evaluasi, memperbaiki model AI, menghilangkan bias algoritma, serta meningkatkan transparansi sistem agar keputusan lebih adil. |
+| Divisi Human Resources (HR) | Menggunakan hasil rekomendasi AI sebagai pendukung dalam proses seleksi kandidat. | Harus melakukan verifikasi terhadap rekomendasi AI dan tidak bergantung sepenuhnya pada sistem agar keputusan rekrutmen tetap objektif dan sesuai prinsip keadilan. |
+| Regulator / Pemerintah | Menyusun kebijakan, mengawasi penerapan AI, serta melindungi hak masyarakat dari dampak penggunaan teknologi. | Terdorong untuk menyusun regulasi mengenai etika AI, transparansi algoritma, perlindungan data pribadi, serta akuntabilitas dalam penggunaan AI pada proses rekrutmen. |
+| Masyarakat | Mengharapkan penggunaan AI dapat memberikan manfaat, meningkatkan efisiensi, serta mendukung kesempatan kerja yang adil. | Kepercayaan terhadap teknologi AI dapat menurun apabila sistem terus menghasilkan keputusan yang diskriminatif sehingga masyarakat menjadi ragu terhadap objektivitas AI. |
 
 
 <br>
