@@ -166,7 +166,7 @@
 |           Risiko          |                     Dampak                     | Strategi 4T |
 |---------------------------|------------------------------------------------|-------------|
 |        Bias gender        |    Diskriminasi terhadap kandidat perempuan    |    Treat    |
-|Reputasi perusahaan menurun|  Hilangkan kepercayaan publik| Bagian 6 dan 7  |    Treat    |
+|Reputasi perusahaan menurun|          Hilangkan kepercayaan publik          |    Treat    |
 |       Gugatan hukum       |      Kerugian finansial dan sanksi hukum       |   Transfer  |
 | Kurangnya transparansi AI |     Sulit diaudit dan dipertanggungjawabkan    |    Treat    |
 |   Kesalahan keputusan AI  |          Kandidat berkualitas ditolak          |    Treat    |
