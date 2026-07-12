@@ -202,8 +202,14 @@
 4. Dampak bagi Regulator
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Contoh seperti Amazon mengindikasikan kebutuhan akan regulasi yang lebih tegas terkait pemanfaatan AI dalam proses pengambilan keputusan. Regulator akan dihadapkan pada permintaan untuk merumuskan kebijakan yang mengatur keterbukaan algoritma, audit sistem AI, perlindungan data pribadi, serta mekanisme akuntabilitas jika sistem AI membuat keputusan yang merugikan masyarakat.
 </p>
-<br>
 Kontrol Preventif 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Untuk meminimalkan risiko terjadinya bias dalam sistem rekrutmen berbasis AI, perusahaan perlu menerapkan beberapa langkah pengendalian berikut.</p>
+1. Human-in-the-Loop (HITL) 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Keputusan terakhir dalam proses rekrutmen sebaiknya tidak sepenuhnya diserahkan kepada AI. Sistem kecerdasan buatan berfungsi hanya sebagai alat bantu dalam memberikan saran, sementara keputusan akhir tetap ditentukan oleh tim Sumber Daya Manusia (SDM). Melalui partisipasi manusia, output yang dihasilkan AI dapat dievaluasi ulang sehingga jika ada tanda bias atau ketidaksesuaian, keputusan tersebut bisa disesuaikan sebelum berdampak pada hasil pemilihan kandidat.</p>
+2. Monitoring dan Audit Algoritma Secara Berkala 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Perusahaan harus melakukan penilaian terhadap kinerja sistem AI secara rutin, baik sebelum maupun sesudah sistem diterapkan. Audit dilaksanakan untuk menemukan adanya bias yang berkaitan dengan gender, usia, atau karakteristik lainnya. Di samping itu, pelatihan data dan model AI harus diperbaharui secara berkala supaya tetap mencerminkan keadaan yang terkini dan tidak terus-menerus memperlihatkan pola diskriminasi dari data masa lalu.
+</p>
+
 
 
 <b>Bagian 11 - Pelajaran Utama & Daftar Pustaka </b>
