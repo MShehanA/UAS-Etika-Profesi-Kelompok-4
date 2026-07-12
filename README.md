@@ -141,6 +141,7 @@
 
 <b>Bagian 8 - Checkpoint Integritas & Anti-Korupsi </b>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;Walaupun kasus bias AI dalam sistem rekrutmen Amazon tidak terkait langsung dengan tindakan korupsi, penerapan prinsip integritas dan good governance tetap merupakan hal yang penting. Jika sistem AI serupa diterapkan oleh lembaga pemerintah atau Badan Usaha Milik Negara (BUMN) dalam proses seleksi karyawan di Indonesia, maka potensi penyalahgunaan sistem atau kewenangan dapat menyebabkan pelanggaran terhadap prinsip-prinsip integritas serta berisiko melanggar peraturan hukum yang ada. Dengan demikian, penerapan AI dalam proses pengambilan keputusan perlu disertai oleh sistem pengawasan, akuntabilitas, dan transparansi yang cukup.</p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;Pasal 3 Undang-Undang Republik Indonesia Nomor 31 Tahun 1999 juncto. Undang-Undang No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi mengatur bahwa setiap individu yang dengan maksud menguntungkan diri sendiri, orang lain, atau suatu perusahaan menyalahgunakan kekuasaan, kesempatan, atau alat yang dimiliki berdasarkan jabatannya sehingga dapat merugikan keuangan negara atau ekonomi negara dapat dikenakan sanksi sesuai hukum yang berlaku. Dalam konteks penerapan AI di sektor publik, penyalahgunaan algoritma atau pengabaian sistem yang diakui menghasilkan keputusan diskriminatif dapat dianggap sebagai penyalahgunaan kekuasaan jika dilakukan secara sengaja dan mengakibatkan kerugian bagi masyarakat.</p>
 
 <br>
 
