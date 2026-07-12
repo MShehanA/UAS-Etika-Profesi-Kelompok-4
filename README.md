@@ -180,6 +180,7 @@
 <b>3. Terminate (Menghentikan Risiko)</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Strategi Terminate diterapkan ketika suatu risiko memiliki pengaruh yang sangat besar dan tidak dapat dikelola dengan baik. Dalam situasi seperti ini, organisasi memutuskan untuk menghentikan kegiatan yang menimbulkan risiko. Kasus Amazon adalah contoh konkret penerapan strategi ini. Setelah perusahaan menyadari bahwa sistem AI berpotensi mendiskriminasi kandidat perempuan dan berbagai upaya perbaikan belum sepenuhnya menghapus bias, Amazon akhirnya memutuskan untuk menghentikan penggunaan sistem AI dalam proses rekrutmen. Keputusan itu diambil untuk menghindari kerugian yang lebih besar, baik bagi kandidat maupun bagi reputasi perusahaan.</p>
 <b>4. Tolerate (Menerima Risiko)</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Strategi Tolerate diterapkan ketika suatu risiko memiliki peluang rendah untuk terjadi atau dampaknya tergolong kecil, sehingga organisasi memutuskan untuk menerimanya sambil terus melakukan pemantauan. Dalam sistem rekrutmen berbasis AI, risiko operasional minor seperti lambatnya pemrosesan data, kesalahan teknis sementara, atau gangguan sistem yang tidak berdampak signifikan pada hasil seleksi masih bisa diterima. Walaupun begitu, perusahaan harus tetap melakukan pemantauan rutin agar risiko tersebut tidak berkembang menjadi isu yang lebih serius.</p>
 <br>
 
 <b>Bagian 10 - Rancangan Dampak & Kontrol Preventif </b>
