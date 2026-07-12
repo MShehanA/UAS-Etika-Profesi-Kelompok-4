@@ -139,6 +139,9 @@
 <br/>
 <b>B. Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) Nomor 11 Tahun 2008 jo. Undang-Undang Nomor 1 Tahun 2024 </b>
 <br><p>&nbsp;&nbsp;&nbsp;&nbsp;Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) mengatur pelaksanaan sistem elektronik untuk berlangsung dengan dapat diandalkan, aman, dan bertanggung jawab. Setiap penyelenggara sistem elektronik harus memastikan bahwa sistem yang digunakan dapat memberikan informasi yang tepat, akurat, dan tidak merugikan masyarakat.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Pada kasus rekrutmen AI Amazon, sistem digital yang diterapkan dapat meningkatkan efisiensi dalam proses seleksi peserta, tetapi belum memenuhi standar keandalan karena menghasilkan keputusan yang berat sebelah terhadap kandidat wanita. Keadaan tersebut menggambarkan bahwa sistem masih belum sepenuhnya mengikuti prinsip penyelenggaraan sistem elektronik yang tepat. Walaupun bias algoritma belum diatur secara spesifik dalam UU ITE, prinsip tanggung jawab penyelenggara sistem elektronik tetap mengikat perusahaan untuk melakukan pengawasan, pengujian, dan evaluasi terhadap teknologi yang digunakan agar tidak memberikan dampak buruk bagi pengguna.</p>
+
+
 <b>C. Surat Edaran Menteri Komunikasi dan Informatika Nomor 9 Tahun 2023 tentang Etika Kecerdasan Artifisial (Artificial Intelligence)</b>
 <br>
 
