@@ -94,6 +94,8 @@ https://youtu.be/xxxxxxxxxxx
 
 <br>
 <b>Analisis Sosial</b>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;Kasus bias AI dalam sistem rekrutmen Amazon menunjukkan bahwa efek penggunaan kecerdasan buatan dirasakan tidak hanya oleh individu yang menjalani proses seleksi, tetapi juga berdampak pada perusahaan, pengembang teknologi, pemerintah, dan masyarakat secara keseluruhan. Kandidat wanita menjadi kelompok yang paling terdampak karena kehilangan peluang untuk mendapatkan pekerjaan karena algoritma yang mengidentifikasi pola diskriminatif dari data masa lalu. Sementara itu, Amazon harus menghadapi penurunan citra dan kritik dari publik karena dianggap gagal menjamin sistem AI berfungsi secara adil dan objektif.
+</p>
 
 <br>
 <b>Bagian 4 - Analisis Empat Teori Etika </b>
