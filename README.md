@@ -141,5 +141,6 @@
 <br>
 <b>1. Penyalahgunaan Wewenang dalam Penggunaan AI </b>
 <br>
-
+<b>2. Kurangnya Transparansi dan Akuntabilitas </b>
+<br>
 
