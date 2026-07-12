@@ -167,7 +167,7 @@
 
 <b>Bagian 9 - Manajemen Risiko & Opsi 4T </b>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Pemanfaatan Kecerdasan Buatan (AI) dalam proses perekrutan menawarkan berbagai keuntungan, seperti meningkatkan efisiensi, mempercepat proses pemilihan, dan mengurangi beban kerja recruiter. Namun, seperti yang terlihat pada kasus sistem rekrutmen Amazon, penggunaan AI juga dapat menghadirkan berbagai risiko jika data pelatihan dan algoritma yang diterapkan tidak dikelola dengan tepat. Risiko ini tidak hanya mempengaruhi individu yang terlibat dalam proses rekrutmen, tetapi juga berpotensi berdampak pada reputasi perusahaan, menyebabkan kerugian finansial, serta menciptakan konsekuensi hukum.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Untuk menangani risiko tersebut, dapat diterapkan pendekatan 4T (Mengelola, Mentransfer, Menghentikan, dan Membiarkan). Pendekatan ini adalah salah satu strategi dalam pengelolaan risiko yang membantu organisasi untuk menentukan langkah yang paling tepat terhadap setiap risiko berdasarkan tingkat dampak dan probabilitas terjadinya.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Untuk menangani risiko tersebut, dapat diterapkan pendekatan 4T (Mengelola, Mentransfer, Menghentikan, dan Membiarkan). Pendekatan ini adalah salah satu strategi dalam pengelolaan risiko yang membantu organisasi untuk menentukan langkah yang paling tepat terhadap setiap risiko berdasarkan tingkat dampak dan probabilitas terjadinya.</p>
 
 |           Risiko          |                     Dampak                     | Strategi 4T |
 |---------------------------|------------------------------------------------|-------------|
