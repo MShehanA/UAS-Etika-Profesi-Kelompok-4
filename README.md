@@ -172,8 +172,8 @@
 |   Kesalahan keputusan AI  |          Kandidat berkualitas ditolak          |    Treat    |
 |  Risiko operasional kecil |       Dampaknya masih dapat dikendalikan       |   Tolerate  |
 
-<b>Penjelasan Strategi 4T</b>
-
+<br><b>Penjelasan Strategi 4T</b>
+<b>1. Treat (Mengurangi atau Mengendalikan Risiko)</b>
 <br>
 
 <b>Bagian 10 - Rancangan Dampak & Kontrol Preventif </b>
