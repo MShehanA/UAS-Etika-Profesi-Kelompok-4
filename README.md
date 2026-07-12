@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://youtu.be/Cy353-aX3aE?si=S8BJL0MtRX3l6gwk">
-    <img src="https://youtu.be/Cy353-aX3aE?si=S8BJL0MtRX3l6gwk.jpg" width="500">
+    <img src="(thumbanil yt).jpg" width="500">
   </a>
 </p>
 
