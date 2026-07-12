@@ -112,6 +112,7 @@ https://youtu.be/xxxxxxxxxxx
 <b>Ethics of Care</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;JSementara itu, menurut Ethics of Care, pilihan yang dibuat seharusnya memperhatikan perhatian terhadap pihak-pihak yang terpengaruh. Dalam situasi ini, sistem tidak memperhatikan efek diskriminasi yang dirasakan oleh perempuan, sehingga mencerminkan kurangnya kepedulian terhadap kelompok yang rentan terkena dampak negatif. Dengan demikian, pemanfaatan AI tersebut belum memenuhi prinsip etika perhatian.</p>
 
+
 <br>
 <b>Bagian 5 - Lensa Kelima — Pancasila</b>
 <br>
@@ -124,6 +125,7 @@ https://youtu.be/xxxxxxxxxxx
 <b>Sila 4: Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan </b>
 <br>
 <b>Sila 5: Keadilan Sosial bagi Seluruh Rakyat Indonesia </b>
+
 
 <br>
 <b>Bagian 6 - Kode Etik Profesi </b>
