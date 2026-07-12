@@ -127,11 +127,13 @@
 <br>
 
 <b>Bagian 7 - Analisis Regulasi & Hukum </b>
-
 <br>
 <b>A. Undang-Undang Perlindungan Data Pribadi (UU PDP) No. 27 Tahun 2022 </b>
 <br>
 <b>B. Undang-Undang Informasi dan Transaksi Elektronik (UU ITE) Nomor 11 Tahun 2008 jo. Undang-Undang Nomor 1 Tahun 2024 </b>
 <br>
 <b>C. Surat Edaran Menteri Komunikasi dan Informatika Nomor 9 Tahun 2023 tentang Etika Kecerdasan Artifisial (Artificial Intelligence)</b>
+<br>
+
+
 
