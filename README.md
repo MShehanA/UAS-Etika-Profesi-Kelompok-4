@@ -120,4 +120,10 @@ https://youtu.be/xxxxxxxxxxx
 <b>Sila 2: Kemanusiaan yang Adil dan Beradab </b>
 <br>
 <b>Sila 3: Persatuan Indonesia </b>
+<br>
+<b>Sila 4: Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan </b>
+<br>
+<b>Sila 5: Keadilan Sosial bagi Seluruh Rakyat Indonesia </b>
 
+<br>
+<b>Bagian 6 - Kode Etik Profesi </b>
