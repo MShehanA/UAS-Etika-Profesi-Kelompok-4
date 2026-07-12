@@ -126,8 +126,8 @@
 <br><p>&nbsp;&nbsp;&nbsp;&nbsp;Sila kelima menegaskan signifikansi menciptakan keadilan dan kesempatan yang setara bagi seluruh komunitas. Dalam situasi Amazon, sistem AI tidak memberikan peluang yang sama kepada semua pelamar karena perempuan mendapatkan penilaian yang lebih rendah akibat bias dari data masa lalu. Situasi tersebut bertentangan dengan asas keadilan sosial yang mengharuskan setiap orang dinilai sesuai dengan kemampuan dan keterampilannya, bukan berdasarkan jenis kelamin. Oleh sebab itu, perusahaan harus menjamin bahwa data pelatihan AI adalah representatif, melaksanakan audit algoritma secara rutin, serta meningkatkan transparansi dalam metode pengambilan keputusan agar sistem dapat menghasilkan proses rekrutmen yang lebih adil, objektif, dan sejalan dengan nilai-nilai keadilan sosial.</p>
 
 <b>Bagian 6 - Kode Etik Profesi </b>
-
 <br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Dari sudut pandang kode etik profesi di sektor teknologi informasi, kasus Amazon menunjukkan bahwa para pengembang belum sepenuhnya menjalankan tanggung jawab profesional mereka. Seorang pengembang sistem kecerdasan buatan bertanggung jawab untuk memastikan bahwa teknologi yang dikembangkan tidak menyebabkan dampak buruk bagi masyarakat. Dalam situasi ini, ketidakberadaan audit bias yang memadai mengindikasikan kurangnya perhatian pada prinsip keadilan dan objektivitas. Selain itu, sistem yang kurang transparan membuat proses pengambilan keputusan sukar untuk dipertanggungjawabkan. Namun, kode etik profesi menyoroti pentingnya integritas, kompetensi, objektivitas, tanggung jawab profesional, serta kepentingan publik dalam setiap inovasi teknologi. Karenanya, para pengembang AI harus menjamin bahwa algoritma yang dikembangkan tidak hanya tepat, tetapi juga adil, jelas, dan dapat dipertanggungjawabkan.</p>
 
 <b>Bagian 7 - Analisis Regulasi & Hukum </b>
 <br>
