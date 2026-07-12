@@ -212,14 +212,14 @@
 3. Penggunaan Data yang Representatif
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Data pelatihan adalah elemen kunci yang menentukan mutu keputusan AI. Oleh karena itu, perusahaan harus memastikan bahwa data yang digunakan menunjukkan keberagaman kandidat berdasarkan gender, latar belakang pendidikan, pengalaman kerja, serta karakteristik lainnya. Dengan data yang lebih seimbang, sistem AI dapat menghasilkan keputusan yang lebih adil dan objektif.</p>
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Transparansi dan Explainable AI (XAI) 
-Perusahaan harus menciptakan sistem AI yang dapat menjelaskan dasar dari setiap keputusan yang diambil. Keterbukaan ini membantu pengembang, HR, dan kandidat untuk mengerti elemen-elemen yang mempengaruhi hasil evaluasi. Selain meningkatkan tanggung jawab, AI yang Dapat Dijelaskan juga mendukung proses audit jika ada tanda-tanda diskriminasi dalam sistem.</p>
+4. Transparansi dan Explainable AI (XAI) 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Perusahaan harus menciptakan sistem AI yang dapat menjelaskan dasar dari setiap keputusan yang diambil. Keterbukaan ini membantu pengembang, HR, dan kandidat untuk mengerti elemen-elemen yang mempengaruhi hasil evaluasi. Selain meningkatkan tanggung jawab, AI yang Dapat Dijelaskan juga mendukung proses audit jika ada tanda-tanda diskriminasi dalam sistem.</p>
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Tata Kelola AI dan Tim Etik
-Perusahaan harus menyusun kebijakan tata kelola AI yang mengatur proses pengembangan, pemanfaatan, pemantauan, serta penilaian sistem AI. Di samping itu, pembentukan tim etik AI yang melibatkan pengembang, praktisi HR, pakar hukum, dan ahli etika akan membantu memastikan bahwa semua sistem AI yang diterapkan telah memenuhi prinsip keadilan, transparansi, akuntabilitas, dan kepatuhan terhadap regulasi yang relevan.</p>
+5. Tata Kelola AI dan Tim Etik
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Perusahaan harus menyusun kebijakan tata kelola AI yang mengatur proses pengembangan, pemanfaatan, pemantauan, serta penilaian sistem AI. Di samping itu, pembentukan tim etik AI yang melibatkan pengembang, praktisi HR, pakar hukum, dan ahli etika akan membantu memastikan bahwa semua sistem AI yang diterapkan telah memenuhi prinsip keadilan, transparansi, akuntabilitas, dan kepatuhan terhadap regulasi yang relevan.</p>
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Pelatihan bagi Pengembang dan Pengguna Sistem 
-Pengembang AI dan tim HR harus mendapatkan pelatihan tentang etika AI, bias algoritma, dan signifikansi keberagaman dalam rekrutmen. Seiring dengan meningkatnya pemahaman tentang risiko AI, perusahaan akan lebih bisa mengidentifikasi potensi bias dari fase pengembangan hingga penerapan sistem.</p>
+6. Pelatihan bagi Pengembang dan Pengguna Sistem 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Pengembang AI dan tim HR harus mendapatkan pelatihan tentang etika AI, bias algoritma, dan signifikansi keberagaman dalam rekrutmen. Seiring dengan meningkatnya pemahaman tentang risiko AI, perusahaan akan lebih bisa mengidentifikasi potensi bias dari fase pengembangan hingga penerapan sistem.</p>
 
 
 
