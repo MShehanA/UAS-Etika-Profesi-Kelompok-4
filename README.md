@@ -175,6 +175,7 @@
 <br><b>Penjelasan Strategi 4T</b>
 <br><b>1. Treat (Mengurangi atau Mengendalikan Risiko)</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Strategi Treat diimplementasikan dengan mengambil tindakan untuk menekan kemungkinan terjadinya risiko serta efeknya. Dalam kasus Amazon, pendekatan ini menjadi pilihan utama karena sebagian besar risiko masih dapat diatasi tanpa perlu menghentikan penggunaan AI secara keseluruhan. Sebagai contoh, risiko adanya bias gender bisa diminimalkan dengan memanfaatkan data pelatihan yang lebih mencerminkan keragaman para kandidat. Di samping itu, perusahaan harus melaksanakan audit algoritma secara rutin untuk mengidentifikasi bias, menerapkan metode Explainable AI (XAI) agar keputusan sistem lebih jelas, dan melibatkan manusia (human-in-the-loop) dalam proses pengambilan keputusan akhir. Langkah-langkah itu ditujukan agar sistem AI dapat membuat keputusan yang lebih adil, objektif, dan transparan.</p>
+<b>2. Transfer (Mengalihkan Risiko))</b>
 <br>
 
 <b>Bagian 10 - Rancangan Dampak & Kontrol Preventif </b>
