@@ -145,7 +145,7 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp;Di samping itu, nilai-nilai pokok integritas yang diterapkan dalam prinsip-prinsip tata kelola pemerintahan yang baik (good governance) mewajibkan setiap penyelenggara sistem elektronik untuk berperilaku dengan jujur, bertanggung jawab, profesional, dan mengutamakan kepentingan masyarakat</p>
 
 <b>Checkpoint Spesifik dalam Konteks AI Rekrutmen </b>
-<b>1. Penyalahgunaan Wewenang dalam Penggunaan AI </b>
+<br><b>1. Penyalahgunaan Wewenang dalam Penggunaan AI </b>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;Jika pengelola sistem menyadari bahwa algoritma rekrutmen memiliki bias tetapi tetap menggunakannya tanpa melakukan perbaikan, hal itu mencerminkan kelalaian atau penyalahgunaan wewenang. Di lembaga pemerintah dan BUMN, situasi ini dapat mengakibatkan hilangnya peluang kerja bagi pelamar yang sebenarnya memenuhi syarat dan melanggar prinsip sistem merit dalam proses perekrutan.</p>
 <b>2. Kurangnya Transparansi dan Akuntabilitas </b>
 
