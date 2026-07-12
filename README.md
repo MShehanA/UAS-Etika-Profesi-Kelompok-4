@@ -143,13 +143,12 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp;Walaupun kasus bias AI dalam sistem rekrutmen Amazon tidak terkait langsung dengan tindakan korupsi, penerapan prinsip integritas dan good governance tetap merupakan hal yang penting. Jika sistem AI serupa diterapkan oleh lembaga pemerintah atau Badan Usaha Milik Negara (BUMN) dalam proses seleksi karyawan di Indonesia, maka potensi penyalahgunaan sistem atau kewenangan dapat menyebabkan pelanggaran terhadap prinsip-prinsip integritas serta berisiko melanggar peraturan hukum yang ada. Dengan demikian, penerapan AI dalam proses pengambilan keputusan perlu disertai oleh sistem pengawasan, akuntabilitas, dan transparansi yang cukup.</p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;Pasal 3 Undang-Undang Republik Indonesia Nomor 31 Tahun 1999 juncto. Undang-Undang No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi mengatur bahwa setiap individu yang dengan maksud menguntungkan diri sendiri, orang lain, atau suatu perusahaan menyalahgunakan kekuasaan, kesempatan, atau alat yang dimiliki berdasarkan jabatannya sehingga dapat merugikan keuangan negara atau ekonomi negara dapat dikenakan sanksi sesuai hukum yang berlaku. Dalam konteks penerapan AI di sektor publik, penyalahgunaan algoritma atau pengabaian sistem yang diakui menghasilkan keputusan diskriminatif dapat dianggap sebagai penyalahgunaan kekuasaan jika dilakukan secara sengaja dan mengakibatkan kerugian bagi masyarakat.</p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;Di samping itu, nilai-nilai pokok integritas yang diterapkan dalam prinsip-prinsip tata kelola pemerintahan yang baik (good governance) mewajibkan setiap penyelenggara sistem elektronik untuk berperilaku dengan jujur, bertanggung jawab, profesional, dan mengutamakan kepentingan masyarakat</p>
-<br>
 
 <b>Checkpoint Spesifik dalam Konteks AI Rekrutmen </b>
 <b>1. Penyalahgunaan Wewenang dalam Penggunaan AI </b>
-<br>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;Jika pengelola sistem menyadari bahwa algoritma rekrutmen memiliki bias tetapi tetap menggunakannya tanpa melakukan perbaikan, hal itu mencerminkan kelalaian atau penyalahgunaan wewenang. Di lembaga pemerintah dan BUMN, situasi ini dapat mengakibatkan hilangnya peluang kerja bagi pelamar yang sebenarnya memenuhi syarat dan melanggar prinsip sistem merit dalam proses perekrutan.</p>
 <b>2. Kurangnya Transparansi dan Akuntabilitas </b>
-<br>
+
 <b>3. Manipulasi atau Pembiaran Data Pelatihan </b>
 
 <br>
