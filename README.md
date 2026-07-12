@@ -119,7 +119,7 @@
 <b>Sila 2: Kemanusiaan yang Adil dan Beradab </b>
 <br><p>&nbsp;&nbsp;&nbsp;&nbsp;Kedua sila menekankan penghargaan terhadap martabat manusia serta perlakuan yang adil tanpa membedakan gender, ras, agama, atau latar belakang lainnya. Dalam kasus ini, sistem AI Amazon memberikan nilai yang lebih rendah kepada calon perempuan walaupun memiliki keterampilan yang setara dengan calon laki-laki. Sebagai akibatnya, perempuan tidak mendapatkan kesempatan untuk pekerjaan hanya karena adanya bias dalam algoritma. Keadaan tersebut mencerminkan bahwa sistem belum menghargai prinsip kemanusiaan yang adil dan beradab. Oleh sebab itu, teknologi perlu dikembangkan untuk memperbaiki kesejahteraan manusia, bukannya justru memperkuat diskriminasi yang ada di masyarakat.</p>
 <b>Sila 3: Persatuan Indonesia </b>
-<br>
+<br><p>&nbsp;&nbsp;&nbsp;&nbsp;Sila ketiga mencerminkan nilai kesatuan, kebersamaan, dan penghormatan terhadap perbedaan. Dalam penggunaan AI pada proses rekrutmen, sistem harus mampu menciptakan lingkungan kerja yang inklusif dengan memberikan kesempatan yang setara kepada semua kandidat tanpa memandang gender. Akan tetapi, bias yang ada pada sistem Amazon berpotensi memperlebar jurang antara pria dan wanita di dunia kerja. Jika praktik semacam ini tetap berlangsung, maka variasi dalam organisasi akan semakin menurun dan tujuan untuk membangun lingkungan kerja yang inklusif akan sulit untuk diwujudkan. Oleh sebab itu, pengembangan AI perlu mendukung nilai kesatuan dengan menghormati keragaman sumber daya manusia.</p>
 <b>Sila 4: Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan </b>
 <br>
 <b>Sila 5: Keadilan Sosial bagi Seluruh Rakyat Indonesia </b>
