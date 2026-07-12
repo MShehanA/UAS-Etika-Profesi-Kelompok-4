@@ -192,7 +192,7 @@
 <b>Bagian 10 - Rancangan Dampak & Kontrol Preventif </b>
 <p><b>Rancangan Dampak</b></p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Jika perusahaan gagal menerapkan pengendalian yang cukup terhadap sistem Kecerdasan Buatan (AI) dalam proses perekrutan, berbagai konsekuensi buruk dapat timbul, baik untuk individu, perusahaan, maupun masyarakat. Dampak tersebut meliputi hal-hal berikut.</p>
-##1. Dampak bagi Individu##
+1. Dampak bagi Individu
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Pemanfaatan sistem AI yang memiliki bias dapat mengakibatkan kandidat, terutama wanita, kehilangan peluang untuk mendapatkan pekerjaan meskipun memenuhi kualifikasi yang dibutuhkan perusahaan. Diskriminasi terhadap kelompok tertentu dapat muncul akibat bias dalam algoritma, yang membuat proses rekrutmen tidak objektif dan adil. Keadaan ini pada akhirnya bisa mengurangi kepercayaan para pencari kerja terhadap pemanfaatan AI dalam proses seleksi serta terhadap perusahaan yang mengimplementasikannya.</p>
 
 
