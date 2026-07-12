@@ -152,9 +152,9 @@
 
 <b>Checkpoint Spesifik dalam Konteks AI Rekrutmen</b>
 <br><b>1. Penyalahgunaan Wewenang dalam Penggunaan AI</b>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Jika pengelola sistem menyadari bahwa algoritma rekrutmen memiliki bias tetapi tetap menggunakannya tanpa melakukan perbaikan, hal itu mencerminkan kelalaian atau penyalahgunaan wewenang. Di lembaga pemerintah dan BUMN, situasi ini dapat mengakibatkan hilangnya peluang kerja bagi pelamar yang sebenarnya memenuhi syarat dan melanggar prinsip sistem merit dalam proses perekrutan.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Jika pengelola sistem menyadari bahwa algoritma rekrutmen memiliki bias tetapi tetap menggunakannya tanpa melakukan perbaikan, hal itu mencerminkan kelalaian atau penyalahgunaan wewenang. Di lembaga pemerintah dan BUMN, situasi ini dapat mengakibatkan hilangnya peluang kerja bagi pelamar yang sebenarnya memenuhi syarat dan melanggar prinsip sistem merit dalam proses perekrutan.</p>
 <b>2. Kurangnya Transparansi dan Akuntabilitas </b>
-<p> &nbsp;&nbsp;&nbsp;&nbsp;Pemanfaatan sistem AI yang bersifat black box membuat proses pengambilan keputusan sukar dijelaskan kepada calon. Jika perusahaan atau lembaga tidak dapat menjelaskan alasan diterima atau ditolaknya seorang calon, maka akuntabilitas sistem akan menurun. Oleh sebab itu, setiap keputusan yang diambil oleh AI harus bisa diaudit dan dijelaskan kepada pihak yang terkait.</p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Pemanfaatan sistem AI yang bersifat black box membuat proses pengambilan keputusan sukar dijelaskan kepada calon. Jika perusahaan atau lembaga tidak dapat menjelaskan alasan diterima atau ditolaknya seorang calon, maka akuntabilitas sistem akan menurun. Oleh sebab itu, setiap keputusan yang diambil oleh AI harus bisa diaudit dan dijelaskan kepada pihak yang terkait.</p>
 <b>3. Manipulasi atau Pembiaran Data Pelatihan </b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Keandalan sistem AI sangat ditentukan oleh mutu data yang diterapkan dalam pelatihan. Jika data pelatihan sengaja dipilih atau dibiarkan tetap mengandung bias sehingga menguntungkan kelompok tertentu, maka keputusan yang dihasilkan oleh AI menjadi tidak adil. Dengan demikian, perusahaan harus melakukan audit data pelatihan secara rutin agar sistem berfungsi dengan adil.</p>
 <b>4. Konflik Kepentingan dalam Pengembangan AI </b>
