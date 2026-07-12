@@ -50,12 +50,7 @@
 
 > **YouTube (Unlisted)**
 
-🔗 **Link Presentasi:** *(Tambahkan tautan YouTube di sini setelah video diunggah.)*
-
-Contoh:
-```
-https://youtu.be/xxxxxxxxxxx
-```
+🔗 **Link Presentasi: https://youtu.be/Cy353-aX3aE?si=S8BJL0MtRX3l6gwk**
 
 <br>
 
