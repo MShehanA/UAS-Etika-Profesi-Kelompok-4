@@ -81,7 +81,11 @@ https://youtu.be/xxxxxxxxxxx
 <b>Bagian 3 - Pemetaan Pemangku Kepentingan </b>
 ## 3. Stakeholder Mapping
 
-| Stakeholder | Role / Interest | Impact |
+| Pemangku Kepentingan | Peran / Kepentingan
+
+ | Dampak yang Dialami
+
+ |
 |-------------|-----------------|--------|
 | Female Candidates | Participate in the recruitment process and expect equal employment opportunities based on qualifications. | Disadvantaged by the AI system, resulting in lower evaluation scores and reduced chances of being hired despite having equivalent qualifications. |
 | Male Candidates | Compete for available job positions through the recruitment process. | May unintentionally benefit from algorithmic bias, making the recruitment results less objective. |
