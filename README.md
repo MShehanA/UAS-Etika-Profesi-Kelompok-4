@@ -155,14 +155,12 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Pengembang dan pengambil keputusan perlu menjauhi konflik kepentingan yang dapat mempengaruhi objektivitas sistem AI. Contohnya, jika algoritma dibuat untuk lebih mengunggulkan kandidat dari kelompok tertentu demi kepentingan organisasi atau perorangan, maka ini bertentangan dengan prinsip profesionalisme, integritas, serta keadilan dalam proses perekrutan.</p>
 <b>5. Pengawasan Manusia (Human Oversight) </b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Keputusan terakhir dalam proses perekrutan sebaiknya tidak sepenuhnya diandalkan pada AI. Partisipasi manusia sebagai pengawas (human-in-the-loop) menjadi titik pengawasan yang krusial untuk menjamin bahwa hasil rekomendasi AI memenuhi prinsip keadilan, bebas dari diskriminasi, dan dapat dipertanggungjawabkan. Pengawasan ini juga berperan sebagai alat pengendalian untuk menghindari terjadinya kesalahan sistem serta penyalahgunaan teknologi.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Kasus bias AI dalam sistem rekrutmen Amazon menunjukkan bahwa penggunaan teknologi harus selalu disertai dengan integritas, transparansi, dan tanggung jawab. Walaupun tidak tergolong dalam kejahatan korupsi, penerapan AI tanpa pengawasan dapat menciptakan peluang terjadinya penyalahgunaan kekuasaan, diskriminasi, atau keputusan yang tidak adil. Dengan demikian, organisasi harus melaksanakan audit algoritma, pengawasan oleh manusia, dokumentasi proses pengambilan keputusan, dan evaluasi secara berkala terhadap sistem AI agar teknologi tersebut benar-benar berfungsi mendukung kepentingan publik dan tetap sesuai dengan prinsip-prinsip tata kelola yang baik.
-
-</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Kasus bias AI dalam sistem rekrutmen Amazon menunjukkan bahwa penggunaan teknologi harus selalu disertai dengan integritas, transparansi, dan tanggung jawab. Walaupun tidak tergolong dalam kejahatan korupsi, penerapan AI tanpa pengawasan dapat menciptakan peluang terjadinya penyalahgunaan kekuasaan, diskriminasi, atau keputusan yang tidak adil. Dengan demikian, organisasi harus melaksanakan audit algoritma, pengawasan oleh manusia, dokumentasi proses pengambilan keputusan, dan evaluasi secara berkala terhadap sistem AI agar teknologi tersebut benar-benar berfungsi mendukung kepentingan publik dan tetap sesuai dengan prinsip-prinsip tata kelola yang baik.</p>
 
 <br>
 
 <b>Bagian 9 - Manajemen Risiko & Opsi 4T </b>
-
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Pemanfaatan Kecerdasan Buatan (AI) dalam proses perekrutan menawarkan berbagai keuntungan, seperti meningkatkan efisiensi, mempercepat proses pemilihan, dan mengurangi beban kerja recruiter. Namun, seperti yang terlihat pada kasus sistem rekrutmen Amazon, penggunaan AI juga dapat menghadirkan berbagai risiko jika data pelatihan dan algoritma yang diterapkan tidak dikelola dengan tepat. Risiko ini tidak hanya mempengaruhi individu yang terlibat dalam proses rekrutmen, tetapi juga berpotensi berdampak pada reputasi perusahaan, menyebabkan kerugian finansial, serta menciptakan konsekuensi hukum.</p>
 <br>
 
 <b>Bagian 10 - Rancangan Dampak & Kontrol Preventif </b>
