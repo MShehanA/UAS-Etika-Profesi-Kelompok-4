@@ -123,8 +123,7 @@
 <b>Sila 4: Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan </b>
 <br><p>&nbsp;&nbsp;&nbsp;&nbsp;Sila keempat menekankan pentingnya kebijaksanaan dalam mengambil keputusan melalui pertimbangan yang rasional dan bertanggung jawab. Pada kasus Amazon, keputusan seleksi terlalu bergantung pada hasil yang diberikan oleh sistem AI tanpa adanya mekanisme evaluasi manusia yang memadai. Padahal, keputusan yang mempengaruhi masa depan seseorang tidak seharusnya sepenuhnya diserahkan kepada algoritma. Penerapan nilai sila keempat dapat diwujudkan melalui konsep human-in-the-loop, yaitu melibatkan manusia sebagai pengambil keputusan akhir untuk meninjau kembali rekomendasi yang dihasilkan AI. Dengan demikian, setiap keputusan dapat dipertimbangkan secara lebih bijaksana, objektif, dan adil.</p>
 <b>Sila 5: Keadilan Sosial bagi Seluruh Rakyat Indonesia </b>
-
-<br>
+<br><p>&nbsp;&nbsp;&nbsp;&nbsp;Sila kelima menegaskan signifikansi menciptakan keadilan dan kesempatan yang setara bagi seluruh komunitas. Dalam situasi Amazon, sistem AI tidak memberikan peluang yang sama kepada semua pelamar karena perempuan mendapatkan penilaian yang lebih rendah akibat bias dari data masa lalu. Situasi tersebut bertentangan dengan asas keadilan sosial yang mengharuskan setiap orang dinilai sesuai dengan kemampuan dan keterampilannya, bukan berdasarkan jenis kelamin. Oleh sebab itu, perusahaan harus menjamin bahwa data pelatihan AI adalah representatif, melaksanakan audit algoritma secara rutin, serta meningkatkan transparansi dalam metode pengambilan keputusan agar sistem dapat menghasilkan proses rekrutmen yang lebih adil, objektif, dan sejalan dengan nilai-nilai keadilan sosial.</p>
 
 <b>Bagian 6 - Kode Etik Profesi </b>
 
