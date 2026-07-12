@@ -144,13 +144,13 @@
 <p> &nbsp;&nbsp;&nbsp;&nbsp;Pasal 3 Undang-Undang Republik Indonesia Nomor 31 Tahun 1999 juncto. Undang-Undang No. 20 Tahun 2001 tentang Pemberantasan Tindak Pidana Korupsi mengatur bahwa setiap individu yang dengan maksud menguntungkan diri sendiri, orang lain, atau suatu perusahaan menyalahgunakan kekuasaan, kesempatan, atau alat yang dimiliki berdasarkan jabatannya sehingga dapat merugikan keuangan negara atau ekonomi negara dapat dikenakan sanksi sesuai hukum yang berlaku. Dalam konteks penerapan AI di sektor publik, penyalahgunaan algoritma atau pengabaian sistem yang diakui menghasilkan keputusan diskriminatif dapat dianggap sebagai penyalahgunaan kekuasaan jika dilakukan secara sengaja dan mengakibatkan kerugian bagi masyarakat.</p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;Di samping itu, nilai-nilai pokok integritas yang diterapkan dalam prinsip-prinsip tata kelola pemerintahan yang baik (good governance) mewajibkan setiap penyelenggara sistem elektronik untuk berperilaku dengan jujur, bertanggung jawab, profesional, dan mengutamakan kepentingan masyarakat</p>
 
-<b>Checkpoint Spesifik dalam Konteks AI Rekrutmen </b>
-<br><b>1. Penyalahgunaan Wewenang dalam Penggunaan AI </b>
-<p> &nbsp;&nbsp;&nbsp;&nbsp;Jika pengelola sistem menyadari bahwa algoritma rekrutmen memiliki bias tetapi tetap menggunakannya tanpa melakukan perbaikan, hal itu mencerminkan kelalaian atau penyalahgunaan wewenang. Di lembaga pemerintah dan BUMN, situasi ini dapat mengakibatkan hilangnya peluang kerja bagi pelamar yang sebenarnya memenuhi syarat dan melanggar prinsip sistem merit dalam proses perekrutan.</p>
+<b>Checkpoint Spesifik dalam Konteks AI Rekrutmen</b>
+<br><b>1. Penyalahgunaan Wewenang dalam Penggunaan AI</b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Jika pengelola sistem menyadari bahwa algoritma rekrutmen memiliki bias tetapi tetap menggunakannya tanpa melakukan perbaikan, hal itu mencerminkan kelalaian atau penyalahgunaan wewenang. Di lembaga pemerintah dan BUMN, situasi ini dapat mengakibatkan hilangnya peluang kerja bagi pelamar yang sebenarnya memenuhi syarat dan melanggar prinsip sistem merit dalam proses perekrutan.</p>
 <b>2. Kurangnya Transparansi dan Akuntabilitas </b>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;Pemanfaatan sistem AI yang bersifat black box membuat proses pengambilan keputusan sukar dijelaskan kepada calon. Jika perusahaan atau lembaga tidak dapat menjelaskan alasan diterima atau ditolaknya seorang calon, maka akuntabilitas sistem akan menurun. Oleh sebab itu, setiap keputusan yang diambil oleh AI harus bisa diaudit dan dijelaskan kepada pihak yang terkait.</p>
 <b>3. Manipulasi atau Pembiaran Data Pelatihan </b>
-
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Keandalan sistem AI sangat ditentukan oleh mutu data yang diterapkan dalam pelatihan. Jika data pelatihan sengaja dipilih atau dibiarkan tetap mengandung bias sehingga menguntungkan kelompok tertentu, maka keputusan yang dihasilkan oleh AI menjadi tidak adil. Dengan demikian, perusahaan harus melakukan audit data pelatihan secara rutin agar sistem berfungsi dengan adil.</p>
 <br>
 
 <b>Bagian 9 - Manajemen Risiko & Opsi 4T </b>
