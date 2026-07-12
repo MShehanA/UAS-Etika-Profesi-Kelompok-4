@@ -221,9 +221,10 @@
 6. Pelatihan bagi Pengembang dan Pengguna Sistem 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Pengembang AI dan tim HR harus mendapatkan pelatihan tentang etika AI, bias algoritma, dan signifikansi keberagaman dalam rekrutmen. Seiring dengan meningkatnya pemahaman tentang risiko AI, perusahaan akan lebih bisa mengidentifikasi potensi bias dari fase pengembangan hingga penerapan sistem.</p>
 
-
-
 <b>Bagian 11 - Pelajaran Utama & Daftar Pustaka </b>
+<b>Pelajaran Utama
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Kasus bias AI dalam sistem perekrutan Amazon menunjukkan bahwa kecerdasan buatan (AI) tidak selalu menghasilkan keputusan yang adil. AI akan mengambil pelajaran dari data yang dipakai dalam proses pelatihan, sehingga jika data itu memiliki bias, keputusan yang dihasilkan juga dapat bersifat diskriminatif. Oleh sebab itu, pengembangan AI perlu memperhatikan prinsip-prinsip etika, seperti keadilan, transparansi, akuntabilitas, dan penghormatan terhadap hak asasi manusia.
+Kasus ini juga menekankan signifikansi pengelolaan AI yang baik dengan memanfaatkan data pelatihan yang representatif, melakukan audit algoritma secara rutin, menerapkan Explainable AI (XAI), serta melibatkan manusia (Human-in-the-Loop) dalam proses pengambilan keputusan. Di samping itu, organisasi harus memastikan bahwa pemanfaatan AI sejalan dengan regulasi yang ada dan kode etik profesi supaya teknologi dapat digunakan secara bertanggung jawab dan tidak menimbulkan diskriminasi di masa depan.</p>
 
 
 
