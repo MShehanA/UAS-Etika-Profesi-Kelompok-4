@@ -1,6 +1,6 @@
 ---
 
-# Etika-Profesi-Kelompok-4
+# UAS-Etika-Profesi-Kelompok-4
 ---
 
 ## "Skandal Algoritma Rekrutmen Amazon"
