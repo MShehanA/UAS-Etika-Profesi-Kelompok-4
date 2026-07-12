@@ -51,8 +51,8 @@
 > **YouTube (Unlisted)**
 
 <p align="center">
-  <a href="https://youtu.be/p0_PKxioKzs">
-    <img src="https://img.youtube.com/vi/p0_PKxioKzs/0.jpg" width="500">
+  <a href="https://youtu.be/Cy353-aX3aE?si=S8BJL0MtRX3l6gwk">
+    <img src="https://youtu.be/Cy353-aX3aE?si=S8BJL0MtRX3l6gwkjpg" width="500">
   </a>
 </p>
 
