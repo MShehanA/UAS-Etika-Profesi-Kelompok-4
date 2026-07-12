@@ -74,6 +74,7 @@
 
 <br>
 <b>Bagian 3 - Pemetaan Pemangku Kepentingan </b>
+
 | Pemangku Kepentingan | Peran / Kepentingan | Dampak yang Dialami |
 |----------------------|---------------------|---------------------|
 | Kandidat Perempuan | Mengikuti proses rekrutmen untuk memperoleh kesempatan kerja yang adil berdasarkan kompetensi. | Mengalami diskriminasi akibat sistem AI memberikan penilaian lebih rendah, sehingga peluang diterima bekerja menjadi berkurang meskipun memiliki kualifikasi yang setara. |
