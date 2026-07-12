@@ -154,6 +154,7 @@
 <b>4. Konflik Kepentingan dalam Pengembangan AI </b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Pengembang dan pengambil keputusan perlu menjauhi konflik kepentingan yang dapat mempengaruhi objektivitas sistem AI. Contohnya, jika algoritma dibuat untuk lebih mengunggulkan kandidat dari kelompok tertentu demi kepentingan organisasi atau perorangan, maka ini bertentangan dengan prinsip profesionalisme, integritas, serta keadilan dalam proses perekrutan.</p>
 <b>5. Pengawasan Manusia (Human Oversight) </b>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Keputusan terakhir dalam proses perekrutan sebaiknya tidak sepenuhnya diandalkan pada AI. Partisipasi manusia sebagai pengawas (human-in-the-loop) menjadi titik pengawasan yang krusial untuk menjamin bahwa hasil rekomendasi AI memenuhi prinsip keadilan, bebas dari diskriminasi, dan dapat dipertanggungjawabkan. Pengawasan ini juga berperan sebagai alat pengendalian untuk menghindari terjadinya kesalahan sistem serta penyalahgunaan teknologi.</p>
 <br>
 
 <b>Bagian 9 - Manajemen Risiko & Opsi 4T </b>
