@@ -121,7 +121,7 @@
 <b>Sila 3: Persatuan Indonesia </b>
 <br><p>&nbsp;&nbsp;&nbsp;&nbsp;Sila ketiga mencerminkan nilai kesatuan, kebersamaan, dan penghormatan terhadap perbedaan. Dalam penggunaan AI pada proses rekrutmen, sistem harus mampu menciptakan lingkungan kerja yang inklusif dengan memberikan kesempatan yang setara kepada semua kandidat tanpa memandang gender. Akan tetapi, bias yang ada pada sistem Amazon berpotensi memperlebar jurang antara pria dan wanita di dunia kerja. Jika praktik semacam ini tetap berlangsung, maka variasi dalam organisasi akan semakin menurun dan tujuan untuk membangun lingkungan kerja yang inklusif akan sulit untuk diwujudkan. Oleh sebab itu, pengembangan AI perlu mendukung nilai kesatuan dengan menghormati keragaman sumber daya manusia.</p>
 <b>Sila 4: Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan </b>
-<br>
+<br><p>&nbsp;&nbsp;&nbsp;&nbsp;Sila keempat menekankan pentingnya kebijaksanaan dalam mengambil keputusan melalui pertimbangan yang rasional dan bertanggung jawab. Pada kasus Amazon, keputusan seleksi terlalu bergantung pada hasil yang diberikan oleh sistem AI tanpa adanya mekanisme evaluasi manusia yang memadai. Padahal, keputusan yang mempengaruhi masa depan seseorang tidak seharusnya sepenuhnya diserahkan kepada algoritma. Penerapan nilai sila keempat dapat diwujudkan melalui konsep human-in-the-loop, yaitu melibatkan manusia sebagai pengambil keputusan akhir untuk meninjau kembali rekomendasi yang dihasilkan AI. Dengan demikian, setiap keputusan dapat dipertimbangkan secara lebih bijaksana, objektif, dan adil.</p>
 <b>Sila 5: Keadilan Sosial bagi Seluruh Rakyat Indonesia </b>
 
 <br>
