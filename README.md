@@ -106,9 +106,7 @@ https://youtu.be/xxxxxxxxxxx
 <b>Teori Deontologi</b>
 <br> 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Berdasarkan teori deontologi, setiap orang memiliki hak yang wajib dihormati tanpa melihat hasil akhir. Dalam situasi ini, setiap pemohon berhak mendapatkan peluang kerja yang setara. Akan tetapi, sistem AI malah memberikan perlakuan yang berbeda tergantung pada gender, yang mengakibatkan pelanggaran terhadap prinsip keadilan dan tanggung jawab perusahaan untuk memperlakukan semua kandidat dengan hak yang sama.</p><br/>
-
 <b>Virtue Ethics</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Jika dianalisis dengan teori Etika Kebajikan, pengembangan sistem AI seharusnya mencerminkan sifat moral seperti keadilan, tanggung jawab, kejujuran, dan profesionalisme. Namun, perhatian pengembang lebih difokuskan pada peningkatan akurasi sistem ketimbang menjamin bahwa algoritma beroperasi secara adil. Situasi itu menunjukkan bahwa nilai-nilai kebajikan belum diimplementasikan dalam pengembangan AI.</p>
-
 <b>Ethics of Care</b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;JSementara itu, menurut Ethics of Care, pilihan yang dibuat seharusnya memperhatikan perhatian terhadap pihak-pihak yang terpengaruh. Dalam situasi ini, sistem tidak memperhatikan efek diskriminasi yang dirasakan oleh perempuan, sehingga mencerminkan kurangnya kepedulian terhadap kelompok yang rentan terkena dampak negatif. Dengan demikian, pemanfaatan AI tersebut belum memenuhi prinsip etika perhatian.</p>
