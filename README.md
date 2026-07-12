@@ -152,8 +152,8 @@
 <b>3. Manipulasi atau Pembiaran Data Pelatihan </b>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Keandalan sistem AI sangat ditentukan oleh mutu data yang diterapkan dalam pelatihan. Jika data pelatihan sengaja dipilih atau dibiarkan tetap mengandung bias sehingga menguntungkan kelompok tertentu, maka keputusan yang dihasilkan oleh AI menjadi tidak adil. Dengan demikian, perusahaan harus melakukan audit data pelatihan secara rutin agar sistem berfungsi dengan adil.</p>
 <b>4. Konflik Kepentingan dalam Pengembangan AI </b>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Pengembang dan pengambil keputusan perlu menjauhi konflik kepentingan yang dapat mempengaruhi objektivitas sistem AI. Contohnya, jika algoritma dibuat untuk lebih mengunggulkan kandidat dari kelompok tertentu demi kepentingan organisasi atau perorangan, maka ini bertentangan dengan prinsip profesionalisme, integritas, serta keadilan dalam proses perekrutan.
-</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Pengembang dan pengambil keputusan perlu menjauhi konflik kepentingan yang dapat mempengaruhi objektivitas sistem AI. Contohnya, jika algoritma dibuat untuk lebih mengunggulkan kandidat dari kelompok tertentu demi kepentingan organisasi atau perorangan, maka ini bertentangan dengan prinsip profesionalisme, integritas, serta keadilan dalam proses perekrutan.</p>
+<b>5. Pengawasan Manusia (Human Oversight) </b>
 <br>
 
 <b>Bagian 9 - Manajemen Risiko & Opsi 4T </b>
