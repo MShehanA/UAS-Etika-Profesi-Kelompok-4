@@ -194,6 +194,16 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Jika perusahaan gagal menerapkan pengendalian yang cukup terhadap sistem Kecerdasan Buatan (AI) dalam proses perekrutan, berbagai konsekuensi buruk dapat timbul, baik untuk individu, perusahaan, maupun masyarakat. Dampak tersebut meliputi hal-hal berikut.</p>
 1. Dampak bagi Individu
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Pemanfaatan sistem AI yang memiliki bias dapat mengakibatkan kandidat, terutama wanita, kehilangan peluang untuk mendapatkan pekerjaan meskipun memenuhi kualifikasi yang dibutuhkan perusahaan. Diskriminasi terhadap kelompok tertentu dapat muncul akibat bias dalam algoritma, yang membuat proses rekrutmen tidak objektif dan adil. Keadaan ini pada akhirnya bisa mengurangi kepercayaan para pencari kerja terhadap pemanfaatan AI dalam proses seleksi serta terhadap perusahaan yang mengimplementasikannya.</p>
+2. Dampak bagi Perusahaan
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Perusahaan berpotensi mengalami penurunan citra karena dianggap melakukan diskriminasi dalam proses perekrutan. Di samping itu, perusahaan mungkin mengalami tuntutan hukum, meningkatnya biaya operasional untuk memperbaiki sistem AI, dan hilangnya kepercayaan dari kandidat karyawan, investor, serta masyarakat. Dampak jangka panjangnya adalah hilangnya citra perusahaan sebagai entitas yang mengedepankan keberagaman dan kesetaraan.</p>
+3. Dampak bagi Masyarakat
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Penggunaan AI yang bias dapat memperkuat ketimpangan gender di dunia kerja karena kelompok tertentu memperoleh kesempatan yang lebih kecil untuk diterima bekerja. Apabila kondisi ini terus berlangsung, masyarakat akan kehilangan kepercayaan terhadap pemanfaatan AI sebagai teknologi yang objektif dan adil. Hal tersebut juga dapat menghambat penerimaan masyarakat terhadap transformasi digital di berbagai sektor.  
+</p>
+4. Dampak bagi Regulator
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Contoh seperti Amazon mengindikasikan kebutuhan akan regulasi yang lebih tegas terkait pemanfaatan AI dalam proses pengambilan keputusan. Regulator akan dihadapkan pada permintaan untuk merumuskan kebijakan yang mengatur keterbukaan algoritma, audit sistem AI, perlindungan data pribadi, serta mekanisme akuntabilitas jika sistem AI membuat keputusan yang merugikan masyarakat.
+</p>
+<br>
+Kontrol Preventif 
 
 
 <b>Bagian 11 - Pelajaran Utama & Daftar Pustaka </b>
